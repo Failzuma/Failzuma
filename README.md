@@ -1,4 +1,4 @@
-<img align="center" alt="waifu" width="400" src="https://i.ytimg.com/vi/6RWfxcXCDrc/maxresdefault.jpg">
+<img align="center" alt="waifu" width="900" src="https://i.ytimg.com/vi/6RWfxcXCDrc/maxresdefault.jpg">
 <h1 align="center">Hi 👋, Welcome to My Profile</h1>
 <h3 align="center">Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition is to work on a big company especially a game company, and getting master degree in Computer Science</h3>
 
