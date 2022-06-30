@@ -17,7 +17,7 @@
 <a href="https://www.instagram.com/ibnuilhaam">
 <img src="https://img.shields.io/badge/-ibnuilhaam-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <p align="center">
-    <img src = "https://discord.c99.nl/widget/theme-1/458342161474387999.png">
+    <img src = "">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
