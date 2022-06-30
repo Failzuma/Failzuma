@@ -14,7 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/ibnuilhaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibnuilhaam" height="30" width="40" /></a>
+<a href="https://wwww.instagram.com/ibnuilhaam">
+<img src="https://img.shields.io/badge/-ibnuilhaam-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://discord.gg/discord.gg/THF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/THF" height="30" width="40" /></a>
 </p>
 
