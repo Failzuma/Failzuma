@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning *Laravel*
 
-- 💬 Ask me about *react, vue, gasp, opencv, keras*
-
 - ⚡ Fun fact *I am apex pros*
 
 <h3 align="left">Connect with me:</h3>
