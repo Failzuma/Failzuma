@@ -1,6 +1,6 @@
 <img align="center" alt="waifu" width="900" title="failzuma's waifu" src="https://i.ytimg.com/vi/6RWfxcXCDrc/maxresdefault.jpg">
 <h1 align="center">Welcome to My Profile</h1>
-<h3 align="center">Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition is to work on a big company especially a game company, and getting master degree in Computer Science</h3>
+<h3 align="center">Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition is to work on a big company especially a game company, and getting master degree in Computer Science. Currently first year on architecture engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=failzuma&label=Profile%20views&color=0e75b6&style=flat" alt="failzuma" /> </p>
 
