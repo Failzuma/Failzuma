@@ -1,7 +1,7 @@
 <img align="center" alt="waifu" width="900" title="failzuma's waifu" src="https://i.ytimg.com/vi/6RWfxcXCDrc/maxresdefault.jpg">
 <div style="width: 10px;"></div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Failzuma%20イルハム&fontSize=60&animation=fadeIn&fontAlignY=38&desc=17yo%20Software%20and%20Web%20Developer&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Failzuma%20イルハム&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%20Software%20and%20Web%20Developer&descAlignY=51&descAlign=62)
 <div style="width: 10px;"></div>
 <div style="width: 10px;"></div>
 <h1 align="center">Welcome to My Profile</h1>
