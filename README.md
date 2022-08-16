@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning *Laravel*
 
-- ⚡ Fun fact *I am apex pros*
+- ⚡ Fun fact *I am quite good on Apex Legends*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
