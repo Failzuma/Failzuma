@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://www.instagram.com/ibnuilhaam">
-<img alt="Instagram" title="follow me <3" width="150" src="https://img.shields.io/badge/-ibnuilhaam-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<img alt="Instagram" title="follow me <3" width="150" height="150" src="https://img.shields.io/badge/-ibnuilhaam-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/Failzuma/">
 <img alt="Steam" width="150" src="https://img.shields.io/badge/-Failzuma-4E94EC?style=flat&logo=Steam&logoColor=black"/></a>
 <p align="center">
