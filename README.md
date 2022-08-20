@@ -29,7 +29,7 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2a1d2e?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=failzuma&label=Profile%20views&color=0e75b6&style=flat" width="150" alt="failzuma"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=failzuma&label=Profile%20views&color=2a1d2e&style=flat" width="150" alt="failzuma"/></p>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
