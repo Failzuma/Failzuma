@@ -16,7 +16,7 @@
 - ⚡ Fun fact *I am quite good on Apex Legends*
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="center" width="200">
 <a href="https://www.instagram.com/ibnuilhaam">
 <img src="https://img.shields.io/badge/-ibnuilhaam-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/Failzuma/">
