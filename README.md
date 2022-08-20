@@ -5,16 +5,13 @@
 <div style="width: 10px;"></div>
 <h1 align="center">Welcome to My Profile</h1>
 Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition is to work on a big company especially a game company, and getting master degree in Computer Science. Currently first year on architecture engineer.
-<br/>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=failzuma&label=Profile%20views&color=0e75b6&style=flat" alt="failzuma" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=failzuma&theme=radical" alt="failzuma"/></a> </p>
 
 - 🌱 I’m currently learning *Laravel*
 
 - ⚡ Fun fact *I am quite good on Apex Legends*
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=failzuma&label=Profile%20views&color=0e75b6&style=flat" width="200" alt="failzuma"/></p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
