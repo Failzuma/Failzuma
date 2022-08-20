@@ -32,7 +32,7 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 ![Git](https://img.shields.io/badge/-Git-2a1d2e?style=flat&logo=git)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-2a1d2e?style=flat&logo=ruby)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2a1d2e?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Vim](https://img.shields.io/badge/-Vim-2a1d2e?style=flat&logo=vim&logoColor=007ACC)
+![Vim](https://img.shields.io/badge/-Vim-2a1d2e?style=flat&logo=vim)&nbsp;
 
 ### 👀 &nbsp;Visitor Count
 
