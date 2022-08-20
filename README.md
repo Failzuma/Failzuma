@@ -14,6 +14,7 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 ### 🛠 &nbsp;Languages and Tools
 
 ![Node.js](https://img.shields.io/badge/-Node.js-2a1d2e?style=flat&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/react-2a1d2e?style=flat&logo=react)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-2a1d2e?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-2a1d2e?style=flat&logo=Laravel)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-2a1d2e?style=flat&logo=python)&nbsp;
