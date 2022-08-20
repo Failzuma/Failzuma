@@ -15,23 +15,13 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 
 - ⚡ Fun fact *I am quite good on Apex Legends*
 
-### 🤝🏻 &nbsp;Connect with Me
-<p align="center">
-<a href="https://www.instagram.com/ibnuilhaam">
-<img alt="Instagram" title="follow me <3" width="120" src="https://img.shields.io/badge/-ibnuilhaam-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://steamcommunity.com/id/Failzuma/">
-<img alt="Steam" width="100" src="https://img.shields.io/badge/-Failzuma-4E94EC?style=flat&logo=Steam&logoColor=black"/></a>
-<p align="center">
-    <img src = "https://discord.c99.nl/widget/theme-3/325844853152022528.png">
-</p>
-
 ### 🛠 &nbsp;Languages and Tools
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=Go)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=Go)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -54,3 +44,13 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 </a>
 </p>
 
+
+### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+<a href="https://www.instagram.com/ibnuilhaam">
+<img alt="Instagram" title="follow me <3" width="120" src="https://img.shields.io/badge/-ibnuilhaam-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://steamcommunity.com/id/Failzuma/">
+<img alt="Steam" width="100" src="https://img.shields.io/badge/-Failzuma-4E94EC?style=flat&logo=Steam&logoColor=black"/></a>
+<p align="center">
+    <img src = "https://discord.c99.nl/widget/theme-3/325844853152022528.png">
+</p>
