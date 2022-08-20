@@ -13,20 +13,20 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 
 ### 🛠 &nbsp;Languages and Tools
 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=Go)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=Dart)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Node.js](https://img.shields.io/badge/-Node.js-2a1d2e?style=flat&logo=node.js)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-2a1d2e?style=flat&logo=php)&nbsp;
+![Python](https://img.shields.io/badge/-Python-2a1d2e?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-2a1d2e?style=flat&logo=Java)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-2a1d2e?style=flat&logo=javascript)&nbsp;
+![Go](https://img.shields.io/badge/Go-2a1d2e?style=flat&logo=Go)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-2a1d2e?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![C++](https://img.shields.io/badge/-C++-2a1d2e?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-2a1d2e?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-2a1d2e?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-2a1d2e?style=flat&logo=Dart)&nbsp;
+![Git](https://img.shields.io/badge/-Git-2a1d2e?style=flat&logo=git)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-2a1d2e?style=flat&logo=ruby)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2a1d2e?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=failzuma&label=Profile%20views&color=0e75b6&style=flat" width="150" alt="failzuma"/></p>
