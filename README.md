@@ -17,7 +17,8 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 ![PHP](https://img.shields.io/badge/PHP-2a1d2e?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-2a1d2e?style=flat&logo=Laravel)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-2a1d2e?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/Java-2a1d2e?style=flat&logo=Java)&nbsp;
+![Django](https://img.shields.io/badge/-Django-2a1d2e?style=flat&logo=Django)&nbsp;
+![Java](https://img.shields.io/badge/-Java-2a1d2e?style=flat&logo=Java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2a1d2e?style=flat&logo=javascript)&nbsp;
 ![Go](https://img.shields.io/badge/Go-2a1d2e?style=flat&logo=Go)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-2a1d2e?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
