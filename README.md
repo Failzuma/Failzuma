@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Failzuma%20イルハム&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%20Software%20and%20Web%20Developer&descAlignY=51&descAlign=62)
-<div style="width: 10px;"></div>
-<div style="width: 10px;"></div>
 <h1 align="center">Welcome to My Profile</h1>
 
 Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition is to work on a big company especially a game company, and getting master degree in Computer Science. Currently first year on architecture engineer.
