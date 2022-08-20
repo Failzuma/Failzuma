@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact *I am quite good on Apex Legends*
 
-<h3 align="left">Connect with me:</h3>
+### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="https://www.instagram.com/ibnuilhaam">
 <img alt="Instagram" title="follow me <3" width="120" src="https://img.shields.io/badge/-ibnuilhaam-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
