@@ -27,7 +27,7 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 ![C++](https://img.shields.io/badge/-C++-2a1d2e?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-2a1d2e?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-2a1d2e?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-2a1d2e?style=flat&logo=Dart)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-2a1d2e?style=flat&logo=Dart&logoColor=007ACC)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-2a1d2e?style=flat&logo=Kotlin)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-2a1d2e?style=flat&logo=git)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-2a1d2e?style=flat&logo=ruby&logoColor=c70c31)&nbsp;
