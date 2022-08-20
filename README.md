@@ -11,7 +11,7 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 - 🌱 I’m currently learning *Laravel*
 
 - ⚡ Fun fact *I am quite good on Apex Legends*
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=failzuma&label=Profile%20views&color=0e75b6&style=flat" width="200" alt="failzuma"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=failzuma&label=Profile%20views&color=0e75b6&style=flat" width="100" alt="failzuma"/></p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
