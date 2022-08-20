@@ -37,6 +37,7 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 
 
 ### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
 <a href="https://github.com/Failzuma">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Failzuma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
