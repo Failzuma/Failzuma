@@ -5,8 +5,7 @@
 <div style="width: 10px;"></div>
 <div style="width: 10px;"></div>
 <h1 align="center">Welcome to My Profile</h1>
-<h3 align="left">Im a passionate programmer, jrpg enthusiast and technophile. 
-    My biggest ambition is to work on a big company especially a game company, and getting master degree in Computer Science. Currently first year on architecture engineer.</h3>
+<h3 align="left">Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition is to work on a big company especially a game company, and getting master degree in Computer Science. Currently first year on architecture engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=failzuma&label=Profile%20views&color=0e75b6&style=flat" alt="failzuma" /> </p>
 
@@ -20,6 +19,8 @@
 <p align="left">
 <a href="https://www.instagram.com/ibnuilhaam">
 <img src="https://img.shields.io/badge/-ibnuilhaam-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://steamcommunity.com/id/Failzuma/">
+<img src="https://img.shields.io/badge/-Failzuma-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <p align="center">
     <img src = "https://discord.c99.nl/widget/theme-3/325844853152022528.png">
 </p>
