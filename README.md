@@ -4,7 +4,10 @@
 <div style="width: 10px;"></div>
 <div style="width: 10px;"></div>
 <h1 align="center">Welcome to My Profile</h1>
+
 Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition is to work on a big company especially a game company, and getting master degree in Computer Science. Currently first year on architecture engineer.
+
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=failzuma&theme=radical" alt="failzuma"/></a> </p>
 
