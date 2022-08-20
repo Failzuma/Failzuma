@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://www.instagram.com/ibnuilhaam">
-<img alt="Instagram" title="follow me <3" width="100" src="https://img.shields.io/badge/-ibnuilhaam-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<img alt="Instagram" title="follow me <3" width="120" src="https://img.shields.io/badge/-ibnuilhaam-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/Failzuma/">
-<img alt="Steam" width="50" src="https://img.shields.io/badge/-Failzuma-4E94EC?style=flat&logo=Steam&logoColor=black"/></a>
+<img alt="Steam" width="100" src="https://img.shields.io/badge/-Failzuma-4E94EC?style=flat&logo=Steam&logoColor=black"/></a>
 <p align="center">
     <img src = "https://discord.c99.nl/widget/theme-3/325844853152022528.png">
 </p>
