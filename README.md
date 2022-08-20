@@ -47,7 +47,7 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 <a href="https://www.instagram.com/ibnuilhaam">
 <img alt="Instagram" title="follow me <3" src="https://img.shields.io/badge/-ibnuilhaam-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/Failzuma/">
-<img alt="Steam" src="https://img.shields.io/badge/-Failzuma-4E94EC?style=flat&logo=Steam&logoColor=blue"/></a>
+<img alt="Steam" src="https://img.shields.io/badge/-Failzuma-4E94EC?style=flat&logo=Steam&logoColor=0a0b24"/></a>
 <p align="center">
     <img src = "https://discord.c99.nl/widget/theme-3/325844853152022528.png">
 </p>
