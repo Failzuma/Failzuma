@@ -3,7 +3,7 @@
 
 Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition is to work on a big company especially a game company, and getting master degree in Computer Science. Currently first year on architecture engineer.
 
-<a href="https://github.com/failzuma/github-profile-trophy">  <img src="https://github-profile-trophy.vercel.app/?username=failzuma&theme=onedark" </a>
+<a href="https://github.com/failzuma/github-profile-trophy">  <img src="https://github-profile-trophy.vercel.app/?username=failzuma&theme=onedark"/> </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=failzuma&theme=onedark)](https://github.com/failzuma/github-profile-trophy)
 
