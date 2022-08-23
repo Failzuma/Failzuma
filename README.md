@@ -5,7 +5,7 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=failzuma&theme=radical" alt="failzuma"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=failzuma&theme=radical" alt="failzuma"/></a></p>
 
 - 🌱 I’m currently learning *Laravel*
 
