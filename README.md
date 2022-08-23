@@ -5,7 +5,7 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=failzuma&theme=onedark)](https://github.com/failzuma/github-profile-trophy)
 
 - 🌱 I’m currently learning *Laravel*
 
