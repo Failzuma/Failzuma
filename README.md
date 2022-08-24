@@ -43,7 +43,7 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 <p align="center" class="d-flex justify-content-center align-items-center">
   <a href="https://github.com/Failzuma">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Failzuma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Failzuma&layout=compact&langs_count=8&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Failzuma&layout=compact&langs_count=8&theme=onedark"/>
   </a>
 </p>
 
