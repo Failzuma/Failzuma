@@ -6,7 +6,7 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 <a href="https://github.com/failzuma/github-profile-trophy">  <img src="https://github-profile-trophy.vercel.app/?username=failzuma&theme=onedark" alt="failzuma" title="failzuma"/> </a>
 </p>
 
-- 🌱 I’m currently learning *Laravel* and some
+- 🌱 I’m currently learning *Laravel* and some basic
 
 - ⚡ Fun fact *I am quite good on Apex Legends*
 
