@@ -3,7 +3,7 @@
 
 Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition is to work on a big company especially a game company, and getting master degree in Computer Science. Currently first year on architectural engineering in [POLNEP](https://www.polnep.ac.id/).
 
-- 🌱 I’m currently learning *Laravel*
+- 🌱 Currently learning C++
 
 - ⚡ Fun fact *I am quite good in Apex Legends*
 
