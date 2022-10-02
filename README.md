@@ -10,7 +10,7 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 
 - ⚡ Fun fact *I am quite good in Apex Legends*
 
-### 🛠 &nbsp;Languages and Tools
+### 🛠 &nbsp;Tech Stacks
 
 ![Node.js](https://img.shields.io/badge/-Node.js-2a1d2e?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/ReactJS-2a1d2e?style=flat&logo=react)&nbsp;
