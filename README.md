@@ -53,5 +53,5 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 <a href="https://steamcommunity.com/id/Failzuma/">
 <img alt="Steam" src="https://img.shields.io/badge/-Failzuma-4E94EC?style=flat&logo=Steam&logoColor=0a0b24"/></a>
 <p align="center">
-    <img src = "https://discord.c99.nl/widget/theme-3/325844853152022528.png">
+    <a href="https://discord.com/users/325844853152022528"><img src="https://lanyard.cnrad.dev/api/325844853152022528?borderRadius=20px&bg=00000000" alt="Discord" /></a>
 </p>
