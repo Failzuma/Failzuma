@@ -3,6 +3,8 @@
 
 Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition is to work on a big company especially a game company, and getting master degree in Computer Science. **Currently gap year :)**
 
+> GANBARIMASU!
+
 - 🌱 On my way to become Fullstack
 
 - ⚡ Fun fact *I am quite good in Apex Legends*
