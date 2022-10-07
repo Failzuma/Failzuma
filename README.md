@@ -19,7 +19,6 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2a1d2e?style=flat&logo=typescript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-2a1d2e?style=flat&logo=java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2a1d2e?style=flat&logo=javascript)&nbsp;
-![Go](https://img.shields.io/badge/Go-2a1d2e?style=flat&logo=Go)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-2a1d2e?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-2a1d2e?style=flat&logo=C%2B%2B&logoColor=326696)&nbsp;
 ![C](https://img.shields.io/badge/-C-2a1d2e?style=flat&logo=C&logoColor=326696)&nbsp;
@@ -28,9 +27,7 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 ![Dart](https://img.shields.io/badge/Dart-2a1d2e?style=flat&logo=Dart&logoColor=007ACC)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-2a1d2e?style=flat&logo=Kotlin)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-2a1d2e?style=flat&logo=git)&nbsp;
-![Ruby](https://img.shields.io/badge/-Ruby-2a1d2e?style=flat&logo=ruby&logoColor=c70c31)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2a1d2e?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Vim](https://img.shields.io/badge/-Vim-2a1d2e?style=flat&logo=vim)&nbsp;
 
 ### 👀 &nbsp;Visitor Count
 
