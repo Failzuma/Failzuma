@@ -31,10 +31,6 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 ![Git](https://img.shields.io/badge/-Git-280137?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-280137?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-### 👀 &nbsp;Visitor Count
-
-<p align="left"> <img alt="Cute Count" src="https://count.getloli.com/get/@Failzuma?theme=rule34"/></p>
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
