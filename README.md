@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=082c6c&height=220&section=header&text=Failzuma%20イルハム&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%20Software%20and%20Web%20Developer&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=280137&height=220&section=header&text=Failzuma%20イルハム&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%20Software%20and%20Web%20Developer&descAlignY=51&descAlign=62)
 <h1 align="center" style="font-size:250px">👋Welcome to My Profile👋</h1>
 
 Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition is to work on a big company especially a game company, and getting master degree in Computer Science.
@@ -31,15 +31,15 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 
 ### 👀 &nbsp;Visitor Count
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=failzuma&label=Profile%20views&color=2a1d2e&style=flat" width="150" alt="failzuma"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=failzuma&label=Profile%20views&color=280137&style=flat" width="150" alt="failzuma"/></p>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center" class="d-flex justify-content-center align-items-center">
   <a href="https://github.com/Failzuma">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Failzuma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Failzuma&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Failzuma&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Failzuma&layout=compact&langs_count=8&theme=midnight-purple"/>
   </a>
 </p>
 
