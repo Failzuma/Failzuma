@@ -33,7 +33,7 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 
 ### 👀 &nbsp;Visitor Count
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=failzuma&label=Profile%20views&color=280137&style=flat" width="150" alt="failzuma"/></p>
+<p align="left"> <img alt="Cute Count" src="https://count.getloli.com/get/Failzuma?theme=rule34"/></p>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
