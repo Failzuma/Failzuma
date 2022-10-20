@@ -7,7 +7,7 @@ Im a passionate programmer, jrpg enthusiast and technophile. My biggest ambition
 
 - 🌱 On my way to become Fullstack
 - 👀 Interested in game hacking and android modding
-- ⚡ Fun fact *I am quite good in Apex Legends*
+- ⚡ Love playing games, especially *Apex Legends*
 
 ### 🛠 &nbsp;Tech Stacks
 
