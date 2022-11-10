@@ -8,7 +8,7 @@ Im a passionate programmer, JRPG enthusiast and a technophile. My biggest ambiti
 - 🌱 On my way to become Fullstack
 - 👀 Interested in game hacking and android modding
 - ⚡ Love playing games, especially *Apex Legends*
-<! -- and end with 
+
 ### 🛠 &nbsp;Tech Stacks
 
 ![Node.js](https://img.shields.io/badge/-Node.js-280137?style=flat&logo=node.js)&nbsp;
@@ -29,7 +29,6 @@ Im a passionate programmer, JRPG enthusiast and a technophile. My biggest ambiti
 ![Kotlin](https://img.shields.io/badge/Kotlin-280137?style=flat&logo=Kotlin)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-280137?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-280137?style=flat&logo=visual-studio-code&logoColor=007ACC)
--->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
