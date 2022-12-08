@@ -5,7 +5,7 @@
 Im a passionate programmer, JRPG enthusiast and a technophile. My biggest ambition is to work on a big company especially a game company, and getting master degree in Computer Science.
 
 
-- 🌱 On my way to become Fullstack
+- 🌱 Learning C++ and ASM also Reverse Engineering
 - 👀 Interested in game hacking and android modding
 - ⚡ Love playing games, especially *Apex Legends*
 
