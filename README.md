@@ -3,7 +3,7 @@
 <h1 align="center" style="font-size:250px">👋 Welcome to My Profile</h1>
 
 <p align="center">Passionate programmer, JRPG enthusiast and a technophile.</p>
-
+</br>
 
 - 🌱 Learning C++ and ASM also Reverse Engineering
 - 👀 Interested in game hacking and android modding
