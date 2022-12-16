@@ -6,7 +6,6 @@
 
 - 🌱 Learning C++ and ASM also Reverse Engineering
 - 👀 Interested in game hacking and android modding
-- ⚡ Love playing games, especially *Apex Legends*
 
 ### 🛠 &nbsp;Tech Stacks
 
