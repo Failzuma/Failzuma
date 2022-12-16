@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center" style="font-size:250px">👋 Welcome to My Profile</h1>
 
-Im a passionate programmer, JRPG enthusiast and a technophile. My biggest ambition is to work on a big company especially a game company, and getting master degree in Computer Science.
+<p align="center">Passionate programmer, JRPG enthusiast and a technophile.</p>
 
 
 - 🌱 Learning C++ and ASM also Reverse Engineering
