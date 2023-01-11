@@ -4,7 +4,7 @@
 
 <p align="center">Passionate programmer, JRPG Enthusiast and a Technophile.</p>
 
-- 🌱 Learning C++ and ASM also Reverse Engineering
+- 🌱 Learning C++ and ASM for Game Developing also Reverse Engineering
 - 👀 Interested in game hacking and android modding
 
 ### 🛠 &nbsp;Tech Stacks
