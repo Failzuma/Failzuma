@@ -3,7 +3,7 @@
 <h1 align="center" style="font-size:250px">👋 Welcome to My Profile</h1>
 
 <p align="center">Passionate programmer, JRPG Enthusiast and a Technophile.</p>
-Currently 1st year in [Polnep](https://polnep.ac.id/)
+Currently 1st year in [Polnep](https://polnep.ac.id)
 - 🌱 Learning C++ and ASM for Game Developing also Reverse Engineering
 - 👀 Interested in game hacking and android modding
 
