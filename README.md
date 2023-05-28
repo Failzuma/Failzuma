@@ -8,8 +8,6 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-280137?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/ReactJS-280137?style=flat&logo=react)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-280137?style=flat&logo=php)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-280137?style=flat&logo=Laravel)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-280137?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-280137?style=flat&logo=Django)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-280137?style=flat&logo=typescript)&nbsp;
@@ -20,7 +18,6 @@
 ![C](https://img.shields.io/badge/-C-280137?style=flat&logo=C&logoColor=326696)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-280137?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-280137?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-280137?style=flat&logo=Dart&logoColor=007ACC)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-280137?style=flat&logo=Kotlin)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-280137?style=flat&logo=git)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-280137?style=flat&logo=unity)&nbsp;
