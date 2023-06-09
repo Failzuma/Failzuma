@@ -16,7 +16,7 @@
 ![Vue](https://img.shields.io/badge/-Vue.js-280137?style=flat&logo=vue.js)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-280137?style=flat&logo=C%2B%2B&logoColor=326696)&nbsp;
 ![C](https://img.shields.io/badge/-C-280137?style=flat&logo=C&logoColor=326696)&nbsp;
-![C#](https://img.shields.io/badge/-C##-280137?style=flat&logo=CSharp&logoColor=276221)&nbsp;
+![C#](https://img.shields.io/badge/-CS-280137?style=flat&logo=CSharp&logoColor=276221)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-280137?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-280137?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-280137?style=flat&logo=Kotlin)&nbsp;
