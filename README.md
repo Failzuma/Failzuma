@@ -39,8 +39,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="https://www.instagram.com/ibnuilhaam">
-<img alt="Instagram" title="follow me <3" src="https://img.shields.io/badge/-ibnuilhaam-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/Failzuma/">
 <img alt="Steam" src="https://img.shields.io/badge/-Failzuma-4E94EC?style=flat&logo=Steam&logoColor=0a0b24"/></a>
 <p align="center">
