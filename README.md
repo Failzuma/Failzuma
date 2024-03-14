@@ -14,18 +14,21 @@
 ![Java](https://img.shields.io/badge/-Java-280137?style=flat&logo=java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-280137?style=flat&logo=javascript)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue.js-280137?style=flat&logo=vue.js)&nbsp;
+![Lua](https://img.shields.io/badge/-Lua-280137?style=flat&logo=lua)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-280137?style=flat&logo=C%2B%2B&logoColor=326696)&nbsp;
 ![C](https://img.shields.io/badge/-C-280137?style=flat&logo=C&logoColor=326696)&nbsp;
-![C#](https://img.shields.io/badge/-CS-280137?style=flat&logo=CSharp&logoColor=276221)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-280137?style=flat&logo=CSharp&logoColor=276221)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-280137?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-280137?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-280137?style=flat&logo=Kotlin)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-280137?style=flat&logo=git)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-280137?style=flat&logo=unity)&nbsp;
 ![Godot](https://img.shields.io/badge/-Godot-280137?style=flat&logo=godot)&nbsp;
+![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-280137?style=flat&logo=roblox-studio)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-280137?style=flat&logo=blender)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-280137?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-280137?style=flat&logo=visual-studio&logoColor=450c91)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
