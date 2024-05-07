@@ -9,7 +9,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-280137?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/ReactJS-280137?style=flat&logo=react)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-280137?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-280137?style=flat&logo=Django)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-280137?style=flat&logo=typescript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-280137?style=flat&logo=java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-280137?style=flat&logo=javascript)&nbsp;
@@ -18,9 +17,9 @@
 ![C++](https://img.shields.io/badge/-C++-280137?style=flat&logo=C%2B%2B&logoColor=326696)&nbsp;
 ![C](https://img.shields.io/badge/-C-280137?style=flat&logo=C&logoColor=326696)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-280137?style=flat&logo=CSharp&logoColor=276221)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-280137?style=flat&logo=Kotlin)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-280137?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-280137?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-280137?style=flat&logo=Kotlin)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-280137?style=flat&logo=git)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-280137?style=flat&logo=unity)&nbsp;
 ![Godot](https://img.shields.io/badge/-Godot-280137?style=flat&logo=godot)&nbsp;
