@@ -7,7 +7,6 @@
 ### 🛠 &nbsp;Tech Stacks
 
 ![Node.js](https://img.shields.io/badge/-Node.js-280137?style=flat&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/ReactJS-280137?style=flat&logo=react)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-280137?style=flat&logo=python)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-280137?style=flat&logo=typescript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-280137?style=flat&logo=java)&nbsp;
@@ -16,6 +15,7 @@
 ![Lua](https://img.shields.io/badge/-Lua-280137?style=flat&logo=lua)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-280137?style=flat&logo=C%2B%2B&logoColor=326696)&nbsp;
 ![C](https://img.shields.io/badge/-C-280137?style=flat&logo=C&logoColor=326696)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-280137?style=flat&logo=Rust)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-280137?style=flat&logo=CSharp&logoColor=276221)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-280137?style=flat&logo=Kotlin)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-280137?style=flat&logo=HTML5)&nbsp;
